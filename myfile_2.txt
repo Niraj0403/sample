@@ -1,0 +1,3 @@
+My roles and responsibility includes: metadata validation and data count validation.
+currently our isd doing production.
+company is located ii pune.
